@@ -1,0 +1,5 @@
+[project]
+name = "sibyl-memory"
+version = "0.1.0"
+description = "Durable, file-based long-term memory for AI agents. Five-package plugin family: SDK, CLI, MCP server, Hermes adapter, and a LangGraph BaseStore. No vector database, no embeddings."
+requires-python = ">=3.10"
